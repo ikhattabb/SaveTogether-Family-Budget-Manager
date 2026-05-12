@@ -95,8 +95,3 @@ To run this project locally, follow these steps:
 
 Developed as a Graduation Project for a Bachelor's Degree in Information Technology (IT).
 
----
-*(If you do not want an Open Source license, you can remove this section)*
-## ⚖️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
