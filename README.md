@@ -10,32 +10,32 @@ SaveTogether is a comprehensive full-stack web application developed as a gradua
 
 Here is a glimpse of the application's intuitive user interface:
 
-### 1. The Power Dashboard (Admin View)
+### 1. Seamless Onboarding (Landing Page)
+The initial landing page introducing the application's core functions with a smooth "Manage Your Family Budget Together" call-to-action. This is where the family journey starts.
+
+<p align="center">
+  <img src="landing_page.png" width="800" title="SaveTogether Landing Page">
+</p>
+
+### 2. The Power Dashboard (Admin View)
 The primary overview for the family administrator (Parent). It tracks collective spending, per-member averages, and visualizes monthly trends and member contributions in a glance.
 
 <p align="center">
   <img src="dashboard_main.png" width="800" title="Admin Dashboard Overview">
 </p>
 
-### 2. Family Management & Budgeting
-This page allows the Admin to manage family members (Admins or Members), set specific monthly spending limits for each individual (e.g., Norah: SAR 4000, Nasser: SAR 2500), and track when they joined.
+### 3. Family Management & Budgeting
+This page allows the Admin to manage family members (Admins or Members), set specific monthly spending limits for each individual (e.g., Norah: SAR 4000, Nasser: SAR 2500).
 
 <p align="center">
   <img src="family_management.png" width="800" title="Family Member and Budget Management">
 </p>
 
-### 3. Detailed Expense Tracking & Categories
-A view of all transactions, showing total expenses, average expense per transaction, and a detailed breakdown of spending by categories (e.g., Shopping, Entertainment, Groceries).
+### 4. Detailed Expense Tracking & Categories
+A view of all transactions, showing total expenses and a detailed breakdown of spending by categories (e.g., Shopping, Entertainment, Groceries).
 
 <p align="center">
   <img src="expenses_category.png" width="800" title="Detailed Expense and Category Breakdown">
-</p>
-
-### 4. Seamless Onboarding
-The initial landing page introducing the application's core functions with a smooth "Manage Your Family Budget Together" call-to-action.
-
-<p align="center">
-  <img src="landing_page.png" width="800" title="SaveTogether Landing Page">
 </p>
 
 ---
@@ -46,20 +46,19 @@ The initial landing page introducing the application's core functions with a smo
 * **Customizable Budgets:** Admins can set and update individual monthly budget limits for each family member.
 * **Real-Time Spending Analytics:** Interactive data visualization (charts) on the dashboard to track total spending, averages, and historical trends.
 * **Comprehensive Expense Logging:** A user-friendly system for logging and categorizing every transaction.
-* **Categorized Spending Reports:** Breakdown of where money is spent across custom categories (Groceries, Entertainment, etc.).
-* **Intelligent Overspending Alerts:** Automatic notifications and visual cues for both the Admin and Member when a member approaches or exceeds their monthly budget.
+* **Categorized Spending Reports:** Breakdown of where money is spent across custom categories.
+* **Intelligent Overspending Alerts:** Automatic notifications for both the Admin and Member when a member approaches or exceeds their monthly budget.
 
 ---
 
 ## 🛠️ Technology Stack
 
-*(Please update this section with the exact technologies you used. Below is a common full-stack template)*
+*(Please update this section with the exact technologies you used)*
 
 * **Backend:** [e.g., Python (Flask/Django)]
 * **Frontend:** [e.g., React.js / Vue.js / HTML5/CSS3/JS]
 * **Database:** [e.g., MySQL / PostgreSQL]
 * **Data Visualization:** [e.g., Chart.js / D3.js]
-* **Authentication:** [e.g., JWT (JSON Web Tokens)]
 
 ---
 
@@ -73,21 +72,17 @@ To run this project locally, follow these steps:
     cd SaveTogether-Family-Budget-Manager
     ```
 2.  **Install backend dependencies:**
-    *(Example command, update as needed)*
     ```bash
     cd backend
     pip install -r requirements.txt
     ```
 3.  **Install frontend dependencies:**
-    *(Example command, update as needed)*
     ```bash
     cd ../frontend
     npm install
     ```
-4.  **Set up the database:**
-    *(Provide brief instructions on database migration or creation)*
-5.  **Run the application:**
-    *(Provide commands to start the backend and frontend servers)*
+4.  **Run the application:**
+    *(Provide commands to start your servers)*
 
 ---
 
