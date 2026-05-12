@@ -94,4 +94,3 @@ To run this project locally, follow these steps:
 ## 🎓 About the Developer
 
 Developed as a Graduation Project for a Bachelor's Degree in Information Technology (IT).
-
