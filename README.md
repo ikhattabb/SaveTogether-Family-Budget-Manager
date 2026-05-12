@@ -1,6 +1,6 @@
 # SaveTogether: The Collaborative Family Finance Hub 💰👪
 
-### "Manage Your Family Budget Together"
+### Manage Your Family Budget Together
 
 SaveTogether is a comprehensive full-stack web application developed as a graduation project to address the challenges of managing multi-person household finances. It provides a centralized, transparent platform where families can track spending, set financial goals, and achieve financial discipline together.
 
